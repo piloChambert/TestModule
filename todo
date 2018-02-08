@@ -1,0 +1,25 @@
+- option menu
+
+- key repeat when moving pieces
+- key repeat on text entry
+- center next tetromino
+
+* instruction screen
+* fix highscore alignement
+* add back button on highscore
+* add version info on main menu
+* customize score input menu
+* in game menu
+* exit button
+* make in game music loop?
+* add score input menu
+* highscore
+* start level sound
+* fix in game music
+* game over music
+* tweak levels score and speed
+* MUSIC!!!
+* keyboard/joystick input (in menu)
+* remove input when menu transition is not over
+* add game over text
+* tweak transition
